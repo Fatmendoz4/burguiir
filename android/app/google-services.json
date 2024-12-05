@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "611758054862",
+    "project_id": "labuena-9ec06",
+    "storage_bucket": "labuena-9ec06.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:611758054862:android:128972949d45026d64df9f",
+        "android_client_info": {
+          "package_name": "burguiir.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxtLzw3VCoBMbH_0EW9nwu1CJVus7MFyk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
